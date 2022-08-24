@@ -13,3 +13,8 @@ https://github.com/Adrian333Dev/filmpire
 
 # Demo
 https://filmpire-tmdb.netlify.app/
+
+# Issue Netlify Redirect
+https://stackoverflow.com/questions/66049606/getting-mixed-content-error-while-making-this-request-even-though-it-is-https
+https://www.themoviedb.org/talk/5dd34e7957d3780015dcfd99
+https://answers.netlify.com/t/requesting-an-http-resource-from-https-website/8510/4
